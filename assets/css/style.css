@@ -37,7 +37,6 @@ h1 {
 }
 
 .masked {
-    position: relative;
     display: inline-block;
     color: transparent;
     
